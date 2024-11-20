@@ -1,0 +1,10 @@
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\bin\Debug\2DGame_FirstDraft.exe.config
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\bin\Debug\2DGame_FirstDraft.exe
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\bin\Debug\2DGame_FirstDraft.pdb
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\obj\Debug\2DGame_FirstDraft.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\obj\Debug\_2DGame_FirstDraft.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\obj\Debug\_2DGame_FirstDraft.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\obj\Debug\2DGame_FirstDraft.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\obj\Debug\2DGame_FirstDraft.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\obj\Debug\2DGame_FirstDraft.exe
+C:\Users\bengi\Desktop\C# Projects\2DGame_FirstDraft\2DGame_FirstDraft\obj\Debug\2DGame_FirstDraft.pdb
